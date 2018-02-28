@@ -6,52 +6,43 @@
     "email": "ssasidharan@mail.usf.edu",
     "phone": "813-734-0411",
     "website": "https://shalni05.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "An aspiring data scientist with 4+ years of extensive work experience in Software Application Development and Quality Assurance, currently pursuing Master's degree in Business Analytics and Information Systems at the University of South Florida.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "33613",
+      "city": "Tampa",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Florida"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Shalni05",
+        "url": "http://github.com/Shalni05"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "shalini-sasidharan",
+        "url": "https://www.linkedin.com/in/shalini-sasidharan-1ab307152/"
       }
+      
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Data Analytics",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Python",
       "keywords": [
       ]
     }
