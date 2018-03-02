@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Shalini Sasidharan",
-    "label": "Graduate Student",
+    "label": "Data Analyst",
     "picture": "https://Shalni05.github.io/images/Profile.jpeg",
     "email": "ssasidharan@mail.usf.edu",
     "phone": "813-734-0411",
@@ -32,8 +32,6 @@
     {
       "name": "Data Analytics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -49,26 +47,68 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Data Analytics & Machine Learning",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Numpy",
+        "Pandas",
+        "SciKit",
+        "Keras",
+		"TensorFlow",
+		"R",
+		"Beautiful Soup",
+		"Selenium"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Cloud Services & Big Data",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Boto3",
+        "CloudTrail",
+        "S3",
+        "EC2",
+        "Solr",
+		"Spark",
+		"Hive"
+      ]
+    },
+	{
+      "name": "Programming & Scripting",
+      "level": "",
+      "keywords": [
+        "Java",
+        "C#",
+        "ASP.NET",
+        "HTML5",
+        "JavaScript",
+		"Angular JS",
+		"JQuery",
+		"UNIX Shell scripting",
+		"VBA",
+		"SQL"
+      ]
+    },
+	{
+      "name": "Data Visualization",
+      "level": "",
+      "keywords": [
+        "Excel",
+        "Tableau",
+        "Qlik Sense",
+        "D3.js"
+      ]
+    },
+	{
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "Oracle",
+        "GreenPlum",
+        "Sybase",
+        "MYSQL",
+		"MS-Access"
       ]
     }
   ],
