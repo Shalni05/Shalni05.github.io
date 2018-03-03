@@ -122,14 +122,24 @@
       "gpa": "",
       "courses": [
       ]
+    },
+	{
+      "institution": "Anna University",
+      "area": "Information Technology (April, 2012)",
+      "studyType": "Bachelors",
+      "startDate": "2008-09-01",
+      "endDate": "2012-04-01",
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of South Florida",
+      "position": "Data Analyst",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-01-12",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
